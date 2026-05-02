@@ -14,7 +14,7 @@
 ---
 
 ## 🔥 Tentang Saya
-- 🌱 Sedang belajar **PHP, Laravel, dan JavaScript**
+- 🌱 Sedang belajar **PHP, Laravel, Express.js dan JavaScript**
 - 🎯 Target tahun ini: **Menjadi Backend Developer**
 - 📫 Kontak saya di: **ahmadsollehudin305@gmail.com**
 - ⚡ Fun fact: Suka begadang kalau ngoding + call 😆
